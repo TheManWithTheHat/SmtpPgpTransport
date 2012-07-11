@@ -1,0 +1,8 @@
+Copy keyrings to
+app/Config/.gnupg/
+
+Config Email in
+app/Config/email.php
+and choose "SmtpPgp" as Transport
+
+
